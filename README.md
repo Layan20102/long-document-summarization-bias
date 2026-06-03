@@ -4,7 +4,6 @@
 
 This repository accompanies our research paper comparing a **DistilBERT extractive baseline** against three **instruction-tuned LLMs** (LLaMA 3-8B, Mistral-7B, Qwen2-1.5B) on chapter-level literary summarization, and introduces a controlled framework for evaluating **demographic bias** under demographic prompt framing.
 
-> IT 469 – Human Language Technologies · King Saud University
 
 ---
 
